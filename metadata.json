@@ -1,0 +1,5 @@
+{
+  "name": "Korean Learning Assistant",
+  "description": "A suite of tools for learning Korean, including a Visual Hangul Decoder, Phonetics Drills, and a Flashcard Generator. Created by Wilson for Korean 1 for International Students, KAIST.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
